@@ -33,7 +33,7 @@ sent4	        I upgraded to softer and more expensive sock varieties.
 sent5	        Now I can never go back.
 missing_sent_len	10
 missing_sent	But I started walking to work and getting blisters.
-keywords	    blisters||started||work||I||getting||and||But||to||walking
+keywords	blisters||started||work||I||getting||and||But||to||walking
 keywords_pos	NOUN||VERB||NOUN||PRON||VERB||CCONJ||CCONJ||ADP||VERB
 ```
 
