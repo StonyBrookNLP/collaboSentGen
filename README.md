@@ -38,8 +38,11 @@ keywords_pos	NOUN||VERB||NOUN||PRON||VERB||CCONJ||CCONJ||ADP||VERB
 ```
 
 
+4. Data Sources
+* ROCStories from: http://cs.rochester.edu/nlp/rocstories/
 
-4. Dataset size
+
+5. Dataset size
 * train:  36,865/ 52,665(70%) 
 * valid:   5,266/ 52,665(10%) 
 * test:   10,533/ 52,665(20%) 
