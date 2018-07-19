@@ -43,7 +43,7 @@ keywords_pos	NOUN||VERB||NOUN||PRON||VERB||CCONJ||CCONJ||ADP||VERB
 
 Below is the count of each type:
 
-train:  36,865/ 52,665(70%) 
-valid:   5,266/ 52,665(10%) 
-test:  10,533/ 52,665(20%) 
+* train:  36,865/ 52,665(70%) 
+* valid:   5,266/ 52,665(10%) 
+* test:  10,533/ 52,665(20%) 
 
