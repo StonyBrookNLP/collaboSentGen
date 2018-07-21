@@ -25,17 +25,17 @@ Each file is a csv file with following columns.
 Below is one example instance:
 
 ```
-storyid	fa0b6f65-fdfc-4df7-a5c4-fcaf463097db
-title	New Flavors
-sent1	Sam was extremely picky.
-sent2	He would only eat pizza and fries.
-sent3	His mother would try to get him to eat other things but he refused.
-sent4	<MISSING>
-sent5	Sam promised to try all kinds of new things.
-missing_sent_len	15
-missing_sent	Until one day she made a lasagna and Sam tried it and liked it.
-accepted_words	it:10||and:11||day:2||sam:8
-keywords	tried||one||and
+storyid:	fa0b6f65-fdfc-4df7-a5c4-fcaf463097db
+title:		New Flavors
+sent1:		Sam was extremely picky.
+sent2:		He would only eat pizza and fries.
+sent3:		His mother would try to get him to eat other things but he refused.
+sent4:		<MISSING>
+sent5:		Sam promised to try all kinds of new things.
+missing_sent_len: 15
+missing_sent:	Until one day she made a lasagna and Sam tried it and liked it.
+accepted_words:	it:10||and:11||day:2||sam:8
+keywords:	tried||one||and
 ```
 
 
